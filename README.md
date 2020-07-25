@@ -1,7 +1,6 @@
 # FoodBot
 
-Bot that takes the top daily submissions from r/food and tweets them
+Bot that takes the top daily submissions from r/food and tweets them to https://twitter.com/rFoodBot
 
-requirements.txt has the required dependencies
-
-private keys need to be filled in
+NOTE:
+private keys are empty
