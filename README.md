@@ -1,6 +1,7 @@
 # FoodBot
 
-Bot that tweets the top daily submissions from r/food to https://twitter.com/rFoodBot
+Bot that tweets the top daily submissions from r/food to Twitter  
+https://twitter.com/rFoodBot
 
-NOTE:
+NOTE:  
 private keys are empty in source code
